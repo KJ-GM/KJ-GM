@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I am Karam 👋 
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KJA-CSX&show_icons=true&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJA-CSX&layout=compact" />
 
 <!--
 **KJA-CSX/KJA-CSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
