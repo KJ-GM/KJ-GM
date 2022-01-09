@@ -1,20 +1,19 @@
 # Hi there, I am Karam 👋 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KJA-CSX&show_icons=true&theme=radical" />
+> About me
+- 🔭 I’m currently working on KJA app
+- 🌱 I’m currently learning Advanced React Native
+- 👯 I’m looking to collaborate on react native projects
+- 💬 Ask me about react and reactNative 
+- 📫 How to reach me: karamjammal6@gmail.com
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJA-CSX&layout=compact" />
+> Github Stats
 
-<!--
-**KJA-CSX/KJA-CSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=KJA-CSX&show_icons=true&theme=radical" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
