@@ -1,6 +1,6 @@
 # Hi there, I am Karam 👋 
  
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=KJA-CSX&show_icons=true&theme=github_dark">
+ <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=KJA-CSX&show_icons=true&theme=github_dark">
  
 > About me
 - 🔭 I’m currently working on KJA-CSX Start-Up
