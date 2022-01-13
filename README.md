@@ -7,7 +7,7 @@
 - 💬 Ask me about react and reactNative 
 - 📫 How to reach me: karamjammal6@gmail.com  
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KJA-Tsx&show_icons=true&theme=github_dark"> 
+ 
 ---
 >**_SKILLS_**
 <p>
