@@ -1,15 +1,38 @@
 # Hi there, I am Karam 👋 
-  
+
 > About me
 - 🔭 I’m currently working on KJA-Tsx Start-Up
 - 🌱 I’m currently learning advanced mobile development 
 - 👯 I’m looking to collaborate on react native projects
 - 💬 Ask me about react and reactNative 
-- 📫 How to reach me: karamjammal6@gmail.com
+- 📫 How to reach me: karamjammal6@gmail.com  
 
-> Github Stats
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KJA-Tsx&show_icons=true&theme=github_dark"> 
+---
+>**_SKILLS_**
+<p>
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+&nbsp;
+<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
+&nbsp;
+<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
+&nbsp;  
 
- <img align="left"   src="https://github-readme-stats.vercel.app/api?username=KJA-Tsx&show_icons=true&theme=github_dark">
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+&nbsp;
+<img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" /> 
+   &nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+&nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+<p>
+  
+>**_Social Media_**
+
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/karam.jm/)](https://www.instagram.com/karam.jm/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karam-jammal-98a3a8205)](https://www.linkedin.com/in/karam-jammal-98a3a8205) 
 
 
 
