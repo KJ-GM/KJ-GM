@@ -1,9 +1,9 @@
 # Hi there, I am Karam 👋 
 
 > About me
-- 🔭 I’m currently working on KJA App
+- 🔭 I’m currently working on Password Manager App
 - 🌱 I’m currently learning advanced mobile development 
-- 👯 I’m looking to collaborate on react native projects
+- 👯 I’m looking for contributors for react native libraries.
 - 💬 Ask me about react and reactNative 
 - 📫 How to reach me: karamjammal6@gmail.com  
 
