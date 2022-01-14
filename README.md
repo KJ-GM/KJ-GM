@@ -1,7 +1,7 @@
 # Hi there, I am Karam 👋 
 
 > About me
-- 🔭 I’m currently working on KJA-Tsx Start-Up
+- 🔭 I’m currently working on KJA App
 - 🌱 I’m currently learning advanced mobile development 
 - 👯 I’m looking to collaborate on react native projects
 - 💬 Ask me about react and reactNative 
