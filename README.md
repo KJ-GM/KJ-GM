@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Password Manager App
 - 🌱 I’m currently learning advanced mobile development 
 - 👯 I’m looking for contributors for react native libraries.
-- 💬 Ask me about react and reactNative 
+- 💬 Ask me about react & reactNative 
 - 📫 How to reach me: karamjammal6@gmail.com  
 
  
