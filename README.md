@@ -32,7 +32,7 @@
 >**_Social Media_**
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/karam.jm/)](https://www.instagram.com/karam.jm/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karam-jammal-98a3a8205)](https://www.linkedin.com/in/karam-jammal-98a3a8205) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/karam.jm/)](https://www.instagram.com/karam.jm/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://)](https://www.linkedin.com/in/) 
 
 
 
