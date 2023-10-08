@@ -1,8 +1,8 @@
 # Hi there, I am Karam 👋 
 
 > About me
-- 🔭 I’m currently working on Password Manager App
-- 🌱 I’m currently learning advanced mobile development 
+- 🔭 I’m currently 4th year university student(Engineering - Computer science)
+- 🌱 I’m currently working & learning advanced mobile development 
 - 👯 I’m looking for contributors for react native libraries.
 - 💬 Ask me about react & reactNative 
 - 📫 How to reach me: karamjammal6@gmail.com  
@@ -11,10 +11,6 @@
 
 >**_Skills_**
 <p>
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
-&nbsp;
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
-&nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 &nbsp;  
 
