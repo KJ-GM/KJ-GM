@@ -30,18 +30,6 @@
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" height="35px" alt="NestJS"/>
 <p>
   
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="[https://il.linkedin.com/in/karam-jammal-98a3a8205" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:karamjammal6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
 ## 🧩 Fun Fact
 
 > I love turning ideas into real products and helping others build better software.
